@@ -15,6 +15,8 @@ https://o11.163189.xyz/stream/live/aod/
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:0,TVBShttps://test.946985.filegear-sg.me/proxy/84820d3dc03cb8b7
 #EXTINF:0,http://o11.163189.xyz/stream/live/hxt/
+#EXTINF:0,cctv5+
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078001_dlna.m3u8
 #EXTINF:0,cctv5
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
 #EXTINF:0,TVB
