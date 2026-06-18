@@ -29,33 +29,7 @@ http://69.30.245.50/live/cctv5.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:48,8TV
 http://cdn6.163189.xyz/163189/8tv
-#EXTINF:0,Okey [Geo-blocked]
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
-#EXTINF:0,RTM ASEAN
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
-#EXTINF:0,Sukan RTM (1080p) [Geo-blocked]
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:0,TV6 [Geo-blocked]
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
-#EXTINF:0,TV9
-https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
-#EXTINF:-1 tvg-id="TV1.my@SD",TV1 (1080p) [Geo-blocked]
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
-#EXTINF:-1 tvg-id="TV2.my@SD",TV2 (1080p) 
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#EXTINF:-1 tvg-id="TV6.my@SD",TV6 [Geo-blocked]
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg@SD",meWATCH LIVE 1 (1080p)
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #EXTINF:-1 tvg-id="DaliTV.tw@SD",Dali TV (大立電視台) (720p)
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
-https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8
 #EXTINF:0,湖南卫视  
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
