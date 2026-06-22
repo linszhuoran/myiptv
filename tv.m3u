@@ -19,8 +19,6 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 group-title="体育",cctv5+
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078001_dlna.m3u8
-#EXTINF:-1 group-title="体育",cctv5
-http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
 #EXTINF:0,TVB
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 group-title="体育",cctv5
@@ -94,7 +92,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=133049&uid=15301&deviceMac=00:1A:79:6
 http://tv.cloudcdn.me:80/live.ts?channelId=133050&uid=15301&deviceMac=00:1A:79:68:B0:74
 #EXTINF:-1 group-title="体育",广东体育HD
 http://111.221.137.234:44330/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="体育",cctv5 backup
+#EXTINF:-1 group-title="体育",cctv5
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
+#EXTINF:-1 group-title="体育",cctv5 
 https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 group-title="马拉西亚" tvg-name="8TV" tvg-id="1122" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2020/05/12/large/20200512130107352553_81.png" group-title="Generic",[BD]8TV *tv
