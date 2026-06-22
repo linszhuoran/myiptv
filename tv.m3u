@@ -7,8 +7,14 @@ http://v2h.veryfast.filegear-sg.me/live/j1/stream.m3u8
 http://o11.163189.xyz/stream/live/hxt/
 #EXTINF:58,Astro AEC
 http://o11.163189.xyz/stream/live/aec/
-#EXTINF:0,AOD
+#EXTINF:0,ASTRO AOD
 https://o11.163189.xyz/stream/live/aod/
+#EXTINF:0,ASTRO AOD
+https://stream1.freetv.fun/79697f2fb076ee976747482277f9a45e9563d9ae6bf6696ba83790ce81798a98.ctv
+#EXTINF:0,ASTRO AOD
+https://stream1.freetv.fun/5116dfb07094845e2ce7e76921800a2bccacf3212b48e6585163f2a45735aa84.ctv
+#EXTINF:0,ASTRO AOD
+https://stream1.freetv.fun/d3caf993c1f3d40b248435a333d61b86a2175ce21d48c60915c684cc2d64436e.ctv
 #EXTINF:0,TVBS
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:0,TVBS
